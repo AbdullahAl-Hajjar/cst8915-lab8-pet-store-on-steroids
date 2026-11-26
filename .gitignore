@@ -1,0 +1,4 @@
+# Never commit the OpenAI keys file (the lab gives a zero if it is published).
+secrets.yaml
+secrets-open-ai.yaml
+*.secret.yaml
